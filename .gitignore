@@ -1,5 +1,7 @@
 *.log
 *.txt
+MCC/dump_log
+
 *.gem
 *.rbc
 .bundle
